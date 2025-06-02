@@ -1,0 +1,9 @@
+npm install chromadb-default-embed
+npm install chromadb@1.9.1npm install chromadb@1.9.1
+npm install @huggingface/inference
+npm i pdf-parse @huggingface/inference chromadb
+
+docker run -p 8000:8000 chromadb/chroma
+
+
+wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/PuG2Nqinq_7G71t1NPOJeQ/jobPostings.js

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@huggingface/inference": "^3.14.0",
+    "chromadb": "^2.4.6",
+    "pdf-parse": "^1.1.1"
+  }
+}
